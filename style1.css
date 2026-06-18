@@ -1,0 +1,18 @@
+img{
+    height: 250px;
+    width: 200px;
+}
+
+body{
+    background-image: url("C:\\Users\\guruprasad\\OneDrive\\Pictures\\gettyimages-1869400721-612x612.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    h1{
+        color:grey
+    }
+    h2{
+        color:lightslategrey
+    }
+    
+}
+
